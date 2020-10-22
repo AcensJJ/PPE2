@@ -2,7 +2,7 @@
 
 Le PPE 2 est le premier site vitrine realisé en groupe de 4 à partir de php, html, css ainsi que de javascipt.
 
-version avec docker accessible <a href="https://github.com/AcensJJ/docker-ppe2">ici</a>.
+Version avec docker accessible *<a href="https://github.com/AcensJJ/docker-ppe2">ici</a>*.
 
 # resultat :
 
