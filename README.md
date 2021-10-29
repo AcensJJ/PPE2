@@ -5,7 +5,7 @@ Le code est responsive.
 
 Version installation docker accessible *<a href="https://github.com/AcensJJ/docker-ppe2">ici</a>*.
 
-# resultat :
+# Resultat :
 
 <p align="center" width="100%">
    <img alt="PPE" src="https://github.com/AcensJJ/PPE2/blob/master/img/ppe.gif"/>
